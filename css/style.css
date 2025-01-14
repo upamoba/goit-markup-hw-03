@@ -47,6 +47,11 @@ img {
     display: block;
     margin: 0 auto;
 }
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
 .header {
 background-color: #ffffff;
 }
