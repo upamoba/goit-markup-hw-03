@@ -293,6 +293,7 @@ display: flex;
     background-color: #FFFFFF;
         text-align: left;
         padding: 10px;
+        border-bottom: 2px solid #dcdcdc;
         width: calc((100% - 80px) / 3);
 }
 .portfolio-title{
