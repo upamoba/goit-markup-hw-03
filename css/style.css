@@ -41,7 +41,6 @@ h5,
 h6,
 p,{
     margin: 0;
-    padding: 0;
 }
 
 ul{
@@ -52,6 +51,7 @@ ul{
 img {
     display: block;
     margin: 0 auto;
+    max-width: 100%;
 }
 .container {
     max-width: 1158px;
@@ -92,6 +92,7 @@ font-family: "Raleway", sans-serif;
 .nav-list {
         gap: 40px;
     display: flex;
+    align-items: center;
 }
 
 .nav-link {
@@ -117,7 +118,6 @@ font-family: "Raleway", sans-serif;
 }
 
 .contact-list {
-list-style: none;
 gap: 40px;
 display: flex;
 }
@@ -352,4 +352,10 @@ text-align: left;
     color:#F4F4FD;
     margin-top: 16px;
     text-align: left;
+    width: 264px;
+    height: 72px;
+    top: 3128px;
+    left: 156px;
+    gap: 0px;
+    opacity: 0px;
 }
