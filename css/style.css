@@ -92,7 +92,6 @@ font-family: "Raleway", sans-serif;
 .nav-list {
         gap: 40px;
     display: flex;
-    align-items: center;
 }
 
 .nav-link {
