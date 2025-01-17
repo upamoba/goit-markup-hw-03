@@ -241,6 +241,7 @@ width: calc((100% - 72px) / 4)
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    text-align: left;
 }
 .team {
     text-align: center;
@@ -340,6 +341,7 @@ row-gap: 48px;
 }
 .portfolio-content {
     padding: 32px 16px;
+    border: 1px solid #e7e9fc;
 }
 .portfolio-title{
     font-weight: 500;
