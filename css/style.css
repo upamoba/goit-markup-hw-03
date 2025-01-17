@@ -183,23 +183,6 @@ display: flex;
 .hero-btn:focus {
     background-color: #404bbf;
 }
-
-.approach {
-    background-color:#ffffff ;
-    text-align: center;
-    padding: 120px 0;
-}
-
-.approach-title {
-    font-family: "Roboto", sans-serif;
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-    margin-bottom: 8px;
-    text-align: center;
-}
 .visually-hidden {
     position: absolute;
     width: 1px;
@@ -211,6 +194,14 @@ display: flex;
     clip: rect(0 0 0 0);
     white-space: nowrap;
 }
+.approach {
+    padding: 120px 0;
+}
+
+.approach-title {
+  
+}
+
 .approach-list {
 list-style: none;
     display: flex;
