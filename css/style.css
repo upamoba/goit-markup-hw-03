@@ -184,16 +184,16 @@ display: flex;
     background-color: #404bbf;
 }
 .visually-hidden {
-    margin: -1px;
     position: absolute;
-        width: 1px;
-        height: 1px;
-        overflow: hidden;
-        white-space: nowrap
-        border:0;
-        padding: o;
-        clip-Path:inset(100%)
-        clip:rect(0 0 0 0)
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
 }
 .approach {
     padding: 120px 0;
