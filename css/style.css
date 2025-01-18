@@ -184,6 +184,7 @@ display: flex;
     background-color: #404bbf;
 }
 .visually-hidden {
+    margin: -1px;
     position: absolute;
         width: 1px;
         height: 1px;
@@ -193,7 +194,6 @@ display: flex;
         padding: o;
         clip-Path:inset(100%)
         clip:rect(0 0 0 0)
-        margin: -1px;
 }
 .approach {
     padding: 120px 0;
