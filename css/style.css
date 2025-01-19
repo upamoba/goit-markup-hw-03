@@ -68,7 +68,6 @@ img {
 .header {
 background-color: #ffffff;
 border-bottom: 1px solid #e7e9fc;
-padding: 20px 0;
 }
 a {text-decoration:none;}
 .section {
@@ -270,7 +269,7 @@ width: calc((100% - 72px) / 4);
 border-radius: 0px 0px 4px 4px;
 }
 .team-photo {
-    margin-bottom: 15px;
+
 }
  .team-info{
     padding: 32px 0;
@@ -283,7 +282,7 @@ border-radius: 0px 0px 4px 4px;
         color: #2e2f42;
         text-align: center;
             margin-bottom: 8px;
-    
+
 }
 
 .team-role {
